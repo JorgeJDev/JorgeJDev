@@ -43,6 +43,6 @@ I look forward to continuing my journey in backend development and exploring new
 You can reach me via:
 
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/jorge-juan-sanda/)
-- ![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat): jjuansanda@gmail.com
+- [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:jjuansanda@gmail.com)
 
 

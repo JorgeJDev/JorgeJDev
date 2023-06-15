@@ -21,3 +21,11 @@ I'm Jorge Juan from Spain. I recently completed a Full Stack Web Development boo
 - ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat)
 - ![Auth0](https://img.shields.io/badge/-Auth0-EB5424?logo=auth0&logoColor=white&style=flat)
 
+Here are some of the technologies I'm currently studying:
+
+- ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
+- ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+- ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white&style=flat)
+- ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat)
+
+I'm excited to dive deeper into these technologies and expand my knowledge.

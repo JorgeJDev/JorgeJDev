@@ -12,12 +12,12 @@ I'm Jorge Juan from Spain. I recently completed a Full Stack Web Development boo
 
 ### Here are some of the technologies I'm familiar with:
 
-- ![JavaScript](https://example.com/javascript-icon.png) JavaScript
-- ![Node.js](https://example.com/nodejs-icon.png) Node.js
-- ![Express](https://example.com/express-icon.png) Express
-- ![MongoDB](https://example.com/mongodb-icon.png) MongoDB
-- ![PostgreSQL](https://example.com/postgresql-icon.png) PostgreSQL
-- ![React](https://example.com/react-icon.png) React
-- ![Firebase](https://example.com/firebase-icon.png) Firebase
-- ![Firebase Admin](https://example.com/firebase-admin-icon.png) Firebase Admin
-- ![Auth0](https://example.com/auth0-icon.png) Auth0
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white&style=flat)
+- ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
+- ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat)
+- ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
+- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat)
+- ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
+- ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat)
+- ![Auth0](https://img.shields.io/badge/-Auth0-EB5424?logo=auth0&logoColor=white&style=flat)
+

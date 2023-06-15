@@ -29,3 +29,10 @@ Here are some of the technologies I'm currently studying:
 - ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat)
 
 I'm excited to dive deeper into these technologies and expand my knowledge.
+
+### Passion for Backend Development 💻
+
+I'm truly passionate about the logic of programming and that's why I'm particularly drawn to and enjoy everything related to backend development. The ability to architect and build the server-side of applications, handle data, and create efficient algorithms truly fascinates me.
+
+I look forward to continuing my journey in backend development and exploring new technologies and frameworks in this field.
+

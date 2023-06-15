@@ -12,6 +12,8 @@ I'm Jorge Juan from Spain. I recently completed a Full Stack Web Development boo
 
 ### Here are some of the technologies I'm familiar with:
 
+- ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+- ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white&style=flat)
 - ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
 - ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat)

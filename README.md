@@ -12,12 +12,12 @@ I'm Jorge Juan from Spain. I recently completed a Full Stack Web Development boo
 
 ### Here are some of the technologies I'm familiar with:
 
-- JavaScript :heavy_check_mark:
-- Node.js :heavy_check_mark:
-- Express :heavy_check_mark:
-- MongoDB :heavy_check_mark:
-- PostgreSQL :heavy_check_mark:
-- React :heavy_check_mark:
-- Firebase :heavy_check_mark:
-- Firebase Admin :heavy_check_mark:
-- Auth0 :heavy_check_mark:
+- ![JavaScript](https://example.com/javascript-icon.png) JavaScript
+- ![Node.js](https://example.com/nodejs-icon.png) Node.js
+- ![Express](https://example.com/express-icon.png) Express
+- ![MongoDB](https://example.com/mongodb-icon.png) MongoDB
+- ![PostgreSQL](https://example.com/postgresql-icon.png) PostgreSQL
+- ![React](https://example.com/react-icon.png) React
+- ![Firebase](https://example.com/firebase-icon.png) Firebase
+- ![Firebase Admin](https://example.com/firebase-admin-icon.png) Firebase Admin
+- ![Auth0](https://example.com/auth0-icon.png) Auth0

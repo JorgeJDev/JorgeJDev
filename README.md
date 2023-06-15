@@ -1,6 +1,6 @@
 # <div align="center">About Me ✨</div>
 
-<div align="center">
+<hr>
 
 👋 Hi there!
 

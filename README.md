@@ -22,6 +22,9 @@ I'm Jorge Juan from Spain. I recently completed a Full Stack Web Development boo
 - ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
 - ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat)
 - ![Auth0](https://img.shields.io/badge/-Auth0-EB5424?logo=auth0&logoColor=white&style=flat)
+- ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwindcss&logoColor=white&style=flat)
+- ![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white&style=flat)
+- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat)
 
 Here are some of the technologies I'm currently studying:
 

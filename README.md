@@ -18,7 +18,7 @@ I'm Jorge Juan from Spain. I recently completed a Full Stack Web Development boo
 
 Here are some of the technologies I'm currently studying:
 
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat) ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white&style=flat) ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat)
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat)
 
 I'm excited to dive deeper into these technologies and expand my knowledge.
 
